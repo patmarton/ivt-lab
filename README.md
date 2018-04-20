@@ -3,11 +3,10 @@
 This is (modify) a sample application for the [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT.
 
 The application is simplified and deliberately contains bugs. 
-BRANCH B
 
 ## Getting started
 
-- The project is implemented in Java 8. BRANCH A
+- The project is implemented in Java 8. BRANCH A BRANCH B
 - The project can be built using [Maven](https://maven.apache.org/).
 - [JUnit](http://junit.org/junit4/) is used for tests, and [Mockito](http://site.mockito.org/) for isolating dependencies.
 
