@@ -6,7 +6,11 @@ The application is simplified and deliberately contains bugs.
 
 ## Getting started
 
+<<<<<<< HEAD
 - The project is implemented in Java 8. BRANCH A BRANCH B
+=======
+- The project is implemented in Java 8. BRANCH A
+>>>>>>> branch-A
 - The project can be built using [Maven](https://maven.apache.org/).
 - [JUnit](http://junit.org/junit4/) is used for tests, and [Mockito](http://site.mockito.org/) for isolating dependencies.
 
